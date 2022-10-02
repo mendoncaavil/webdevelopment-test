@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webdevelopment-test/static/css/main.fd05849c.css",
+    "main.js": "/webdevelopment-test/static/js/main.04a3d5aa.js",
+    "index.html": "/webdevelopment-test/index.html",
+    "main.fd05849c.css.map": "/webdevelopment-test/static/css/main.fd05849c.css.map",
+    "main.04a3d5aa.js.map": "/webdevelopment-test/static/js/main.04a3d5aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd05849c.css",
+    "static/js/main.04a3d5aa.js"
+  ]
+}
